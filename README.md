@@ -1,2 +1,11 @@
 # Graph-Visulizer
-Navigate more on Different types of Graphs
+Navigate Different types of Plots and Graphs- 
+Bar Plots
+Line PLots
+Scatter Plots
+Histogram
+Visualize graphs
+
+Also, implemented the Dijstra's Algorithm in finding the shortest path using NetworkX library
+
+
