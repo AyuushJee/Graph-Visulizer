@@ -6,6 +6,6 @@ Scatter Plots
 Histogram
 Visualize graphs
 
-Also, implemented the Dijstra's Algorithm in finding the shortest path using NetworkX library
+Also, implemented the Dijkstra's Algorithm in finding the shortest path using NetworkX library
 
 
